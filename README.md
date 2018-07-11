@@ -1,2 +1,2 @@
 # shared-config
-All shared config for diff services would be kept here
+All shared config for different services would be kept here
